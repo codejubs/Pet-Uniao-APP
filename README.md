@@ -29,7 +29,7 @@
 
 ## 📸 Preview
 
-![telas android studio - readme -](https://github.com/user-attachments/assets/9d2cae4d-7a0a-47de-bafa-b9b8fec66d9a)
+![telas android studio - readme - (1)](https://github.com/user-attachments/assets/e357fd49-5489-4b06-8a39-0dbdb840c215)
 
 ---
 
