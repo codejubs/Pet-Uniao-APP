@@ -27,9 +27,8 @@
 ---
 
 ## 📸 Preview
-<img src="C:\telas-petuniao\Splash.png" width="300" height="200"/>
 
-
+![telas android studio - readme -](https://github.com/user-attachments/assets/9d2cae4d-7a0a-47de-bafa-b9b8fec66d9a)
 
 ---
 
