@@ -48,5 +48,5 @@
 2. Abra o projeto no Android Studio.
 3. Execute em um emulador ou dispositivo Android.
 
-## <3 Agradeço pela atenção!
+## Agradeço pela atenção! <3
    
