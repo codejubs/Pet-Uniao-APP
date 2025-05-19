@@ -1,4 +1,4 @@
-# 🐾 Meow Me
+# 🐾 MeowMe
 
 **Descubra qual gato combina com a sua personalidade!**
 
@@ -6,7 +6,7 @@
 
 ## 📱 Sobre o Projeto
 
-**Meow Me** 
+**MeowMe** 
 é um aplicativo Android desenvolvido em **Kotlin** que permite aos usuários descobrir qual gato mais combina com sua personalidade. A interface foi cuidadosamente projetada com um protótipo de **Alta Fidelidade no Figma**, garantindo uma experiência visual amigável e envolvente.
 
 ---
