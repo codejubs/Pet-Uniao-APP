@@ -45,6 +45,8 @@
    ```bash
    https://github.com/codejubs/Pet-Uniao-APP.git
    ```
-2. Abra o projeto no Android Studio
-3. Execute em um emulador ou dispositivo Android
+2. Abra o projeto no Android Studio.
+3. Execute em um emulador ou dispositivo Android.
+
+## <3 Agradeço pela atenção!
    
