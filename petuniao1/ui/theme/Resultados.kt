@@ -13,6 +13,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.text.font.Font
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -51,16 +53,18 @@ fun Resultado(navController: NavHostController) {
                 .height(841.dp)
         )
         Image(
+            //pixelart
             painter = painterResource(id = gato.pixelart),
             contentDescription = "Um gato de cor frajona em formato de pixel art",
             modifier = Modifier
                 .align(Alignment.Center)
-                .width(183.dp)
-                .height(183.dp)
-                .offset(y = 325.dp)
+                .width(110.dp)
+                .height(110.dp)
+                .offset(y = 360.dp)
 
         )
         Image(
+            //imagem do gato
             painter = painterResource(id = gato.imagem1),
             contentDescription = "foto real de um gato frajola chamado jack",
             modifier = Modifier
@@ -81,15 +85,17 @@ fun Resultado(navController: NavHostController) {
                 .offset(y = 125.dp)
         )
         Text(
+            //nome do gato
             text = gato.gato1,
             fontSize = 35.sp,
             textAlign = TextAlign.Center,
             fontFamily = fontebonitinha,
+            fontWeight = FontWeight.Medium,
 
             modifier = Modifier
                 .align(Alignment.Center)
                 .offset(y = 215.dp)
-                .offset(y = (-8).dp)
+                .offset(y = (-30).dp)
 
 
         )
@@ -112,6 +118,18 @@ fun Resultado(navController: NavHostController) {
             modifier = Modifier
                 .align(Alignment.TopCenter)
                 .offset(y = 215.dp)
+        )
+        Text(
+            //descrição deles de acordo com a escolha
+            text = gato.escolha,
+            fontSize = 30.sp,
+            textAlign = TextAlign.Center,
+            fontFamily = fontebonitinha,
+
+            modifier = Modifier
+                .align(Alignment.BottomCenter)
+                .offset(y = (-150).dp)
+                .width(280.dp)
         )
 
     }

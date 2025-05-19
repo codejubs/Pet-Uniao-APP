@@ -22,7 +22,7 @@ fun SplashConteudo(onTimeout: () -> Unit){
         onTimeout() //para dar delay e ir pra home dps de 3 segundos
     }
     Image(
-        painter = painterResource(id = R.drawable.splash),
+        painter = painterResource(id = R.drawable.splash2),
         contentDescription = "Splash",
         contentScale = ContentScale.Crop, //ele preenche a tela toda
         modifier = Modifier

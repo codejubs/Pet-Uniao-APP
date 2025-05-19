@@ -32,17 +32,20 @@ data class Gatin(
     val gato1: String,
     val descricao1: String,
     val imagem1: Int,
-    val pixelart: Int
+    val pixelart: Int,
+    val escolha: String
 )
 
 //declarando a lista dos gatinhos com nome, descrição e foto
  val escolhagato = listOf(
-     Gatin("Jack","Introvertido, prefere ficar no seu mundinho e em lugares calmos.",R.drawable.jack__gatinho1_,R.drawable.jackpixel),
-     Gatin("Luke","Anti-social, carente e gosta de dormir em lugares escuros.",R.drawable.luke__gatinho_2_,R.drawable.lukepixel,),
-     Gatin("Chantilly","Carinhosa, gosta de socializar e tomar um bom banho de sol.",R.drawable.chanchan__gatinho_3_,R.drawable.chanchanpixel),
-     Gatin("Nayu","Prefere lugares confortaveis para passar o tempo com si mesma.",R.drawable.nayu__gatinho_4_,R.drawable.nayupixel,),
-     Gatin("Akaashi","Adora conhecer novas pessoas e distribuir seu amor pelo mundo.",R.drawable.akaashi__gatinho_5_,R.drawable.akaashipixel),
-     Gatin("Fred","Extrovertido, gosta de dormir, brincalhão e muito social.",R.drawable.fred__gatinho_6_,R.drawable.fredpixel)
+     Gatin("Jack","Introvertido, prefere ficar no seu mundinho e em lugares calmos.",R.drawable.jack__gatinho1_,R.drawable.jackpixel,"Você é reservada(o) prefere está em sua própria compainha!"),
+     Gatin("Luke","Anti-social, carente e gosta de dormir em lugares escuros.",R.drawable.luke__gatinho_2_,R.drawable.lukepixel,"Dormir no escuro é algo que você goste."),
+     Gatin("Chantilly","Carinhosa, gosta de socializar e tomar um bom banho de sol.",R.drawable.chanchan__gatinho_3_,R.drawable.chanchanpixel,"Tomar banho de sol revitaliza a nossa vida."),
+     Gatin("Nayu","Prefere lugares confortaveis para passar o tempo com si mesma.",R.drawable.nayu__gatinho_4_,R.drawable.nayupixel,"Passar tempo com si mesma as vezes é bom!"),
+     Gatin("Akaashi","Adora conhecer novas pessoas e distribuir seu amor pelo mundo.",R.drawable.akaashi__gatinho_5_,R.drawable.akaashipixel,"As pessoas ao seu redor amam passar tempo com você!"),
+     Gatin("Fred","Extrovertido, gosta de dormir, brincalhão e muito social.",R.drawable.fred__gatinho_6_,R.drawable.fredpixel,"Conhecer novas pessoas é realmente muito legal!"),
+     Gatin("Yumi","Gosta de sair mas ao mesmo tempo é caseira. Ama tomar banho de sol.",R.drawable.mekocatframe,R.drawable.mekopixelart,"Ficar em casa realmente é muito bom!"),
+     Gatin("Lobinho","Prefere está sempre sentado observando o ambiente.",R.drawable.lobinhocatframe,R.drawable.lobinhopixel_art,"Você é um otimo observador(a), está sempre atento a tudo!")
 
  )
 
@@ -141,7 +144,7 @@ fun Escolhas(navController: NavHostController) {
                 .padding(5.dp)
                 .offset(y = 520.dp)
                 .fillMaxHeight()
-                .width(350.dp)
+                .width(340.dp)
                 .height(113.dp),
            textAlign = TextAlign.Center
 
