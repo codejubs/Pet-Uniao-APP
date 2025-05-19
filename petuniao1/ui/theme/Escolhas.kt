@@ -102,7 +102,7 @@ fun Escolhas(navController: NavHostController) {
                 .offset(x = 315.dp, y = 393.dp)
         )
         Text(
-            text = "Pet União",
+            text = "MeowMe",
             fontSize = 35.sp,
             lineHeight = 29.sp,
             fontFamily = fontebonitinha,
@@ -110,7 +110,7 @@ fun Escolhas(navController: NavHostController) {
 
             modifier = Modifier
                 .padding(5.dp)
-                .offset(y = 75.dp)
+                .offset(y = 74.dp)
                 .fillMaxHeight()
                 .width(300.dp)
                 .height(39.dp)

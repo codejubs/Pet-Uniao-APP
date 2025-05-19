@@ -100,8 +100,8 @@ fun Resultado(navController: NavHostController) {
 
         )
         Text(
-            text = "PetUnião",
-            fontSize = 30.sp,
+            text = "MeowMe",
+            fontSize = 33.sp,
             textAlign = TextAlign.Center,
             fontFamily = fontebonitinha,
 
