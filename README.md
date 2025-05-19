@@ -27,10 +27,8 @@
 ---
 
 ## 📸 Preview
+<img src="C:\telas-petuniao\Splash.png" width="300" height="200"/>
 
-![Splash2](https://github.com/user-attachments/assets/43492f9a-b19d-4310-9d84-a82c8dca6bfa) ![tela 1](https://github.com/user-attachments/assets/3ba46461-1fe8-426b-b1fb-3189405d8159) 
-
-![tela 2](https://github.com/user-attachments/assets/8e8d9e1e-7a67-4d9f-b654-ee7fdfe62763) ![tela 3](https://github.com/user-attachments/assets/9d7722b8-a332-4a12-8487-3c54b6c5842d)
 
 
 ---
