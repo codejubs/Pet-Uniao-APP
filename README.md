@@ -43,7 +43,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/codejubs/Pet-Uniao-APP.git
+   https://github.com/codejubs/Pet-Uniao-APP.git
    ```
 2. Abra o projeto no Android Studio
 3. Execute em um emulador ou dispositivo Android
