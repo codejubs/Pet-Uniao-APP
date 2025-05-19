@@ -6,7 +6,8 @@
 
 ## 📱 Sobre o Projeto
 
-**Meow Me** é um aplicativo Android desenvolvido em **Kotlin** que permite aos usuários descobrir qual gato mais combina com sua personalidade. A interface foi cuidadosamente projetada com um protótipo de **Alta Fidelidade no Figma**, garantindo uma experiência visual amigável e envolvente.
+**Meow Me** 
+é um aplicativo Android desenvolvido em **Kotlin** que permite aos usuários descobrir qual gato mais combina com sua personalidade. A interface foi cuidadosamente projetada com um protótipo de **Alta Fidelidade no Figma**, garantindo uma experiência visual amigável e envolvente.
 
 ---
 
@@ -29,6 +30,12 @@
 ## 📸 Preview
 
 ![telas android studio - readme -](https://github.com/user-attachments/assets/9d2cae4d-7a0a-47de-bafa-b9b8fec66d9a)
+
+---
+
+## 🎨 Paleta de Cores
+
+![paleta de cores](https://github.com/user-attachments/assets/d9f25b9e-e410-4b12-a533-9d183d760a08)
 
 ---
 
