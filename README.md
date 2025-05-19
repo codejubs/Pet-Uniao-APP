@@ -43,4 +43,8 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/meow-me.git
+   git clone https://github.com/codejubs/meow-me.git
+   ```
+2. Abra o projeto no Android Studio
+3. Execute em um emulador ou dispositivo Android
+   
