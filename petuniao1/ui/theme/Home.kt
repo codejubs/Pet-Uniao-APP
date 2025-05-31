@@ -109,7 +109,7 @@ fun Homeconteudo(navController: NavHostController) {
 
 //criação de um botão
 @Composable
-fun Botaocomezar(texto: String, onClick: () -> Unit = {})
+fun Botaocomezar(text: String, onClick: () -> Unit = {})
 {
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
@@ -140,7 +140,7 @@ fun Botaocomezar(texto: String, onClick: () -> Unit = {})
 }
 
 @Composable
-fun Botaoprox(texto: String, onClick: () -> Unit = {})
+fun Botaoprox(text: String, onClick: () -> Unit = {})
 {
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
